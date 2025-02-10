@@ -1,4 +1,4 @@
-FROM alpine:3.17
+FROM alpine:3.19.6
 
 ARG BACKSTOPJS_VERSION=6.1.1
 
